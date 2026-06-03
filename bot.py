@@ -7,11 +7,11 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ---- কনফিগারেশন ----
 BOT_TOKEN = "YOUR_BOT_TOKEN" # তোমার বটের টোকেন
-ADMIN_ID = 123456789          # তোমার নিজের টেলিগ্রাম আইডি (সংখ্যায়)
+ADMIN_ID = 8273597769          # তোমার নিজের টেলিগ্রাম আইডি (সংখ্যায়)
 
 # Force Subscribe এর জন্য তোমার নিজের ২টি প্রধান চ্যানেল (ইউজারনেম অথবা আইডি)
-REQ_CHANNEL_1 = "@my_main_channel_1" 
-REQ_CHANNEL_2 = "@my_main_channel_2"
+REQ_CHANNEL_1 = "@fegasus_1" 
+REQ_CHANNEL_2 = "@Falcon_Elite"
 
 # লগিং সেটআপ
 logging.basicConfig(level=logging.INFO)
