@@ -6,7 +6,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ---- কনফিগারেশন ----
-BOT_TOKEN = "YOUR_BOT_TOKEN" # তোমার বটের টোকেন
+BOT_TOKEN = "8828335638:AAFFQ2cHHxGl-7kOLziGA6O7C74ql3ezGRk" # তোমার বটের টোকেন
 ADMIN_ID = 8273597769          # তোমার নিজের টেলিগ্রাম আইডি (সংখ্যায়)
 
 # Force Subscribe এর জন্য তোমার নিজের ২টি প্রধান চ্যানেল (ইউজারনেম অথবা আইডি)
